@@ -1,8 +1,11 @@
 {
-    "name": "joi",
+    "name": "@signalyticsai/sideway-joi",
     "description": "Object schema validation",
-    "version": "17.6.0",
-    "repository": "git://github.com/sideway/joi",
+    "version": "17.6.1",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/SignalyticsAI/sideway-joi.git"
+    },
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "browser": "dist/joi-browser.min.js",
