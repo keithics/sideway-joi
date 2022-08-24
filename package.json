@@ -1,7 +1,7 @@
 {
     "name": "@keithics/sideway-joi",
     "description": "Object schema validation",
-    "version": "0.17.19",
+    "version": "0.17.7",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/SignalyticsAI/sideway-joi.git"
