@@ -4,7 +4,7 @@
     "version": "0.17.7",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/SignalyticsAI/sideway-joi.git"
+        "url": "git+ssh://git@github.com/keithics/sideway-joi.git"
     },
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
